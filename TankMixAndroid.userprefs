@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TankMix/SecondActivity.cs" Line="1" Column="1" />
+      <File FileName="TankMix/ThirdActivity.cs" Line="417" Column="19" />
+      <File FileName="TankMix/ResultActivity.cs" Line="37" Column="44" />
+      <File FileName="TankMix/AboutActivity.cs" Line="21" Column="43" />
+      <File FileName="TankMix/MainActivity.cs" Line="21" Column="42" />
+      <File FileName="TankMix/ManualActivity.cs" Line="21" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TankMix MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="ca0c13ba" />
+</Properties>

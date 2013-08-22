@@ -1,0 +1,6 @@
+TankMix.MainActivity;tankmix.MainActivity
+TankMix.SecondActivity;tankmix.SecondActivity
+TankMix.ThirdActivity;tankmix.ThirdActivity
+TankMix.ResultActivity;tankmix.ResultActivity
+TankMix.AboutActivity;tankmix.AboutActivity
+TankMix.ManualActivity;tankmix.ManualActivity

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">TankMix</string>
+	
+	<string name="units">Select Your Units</string>
+    <string-array name="appUnitArray">
+        <item>US gpa</item>
+        <item>Imp gpa</item>
+        <item>L/ha</item>
+    </string-array>
+    
+    <string-array name="prodUnitArray">
+        <item>acres/case</item>
+        <item>L/acre</item>
+        <item>g/acre</item>
+        <item>mL/acre</item>
+        <item>US fl oz/acre</item>
+        <item>US quart/acre</item>
+        <item>oz/acre</item>
+        <item>L/ha</item>
+        <item>g/ha</item>
+        <item>mL/ha</item>
+    </string-array>
+    
+    <string-array name="adjUnitArray">
+        <item>%v/v</item>
+        <item>L/acre</item>
+        <item>mL/acre</item>
+        <item>US fl oz/acre</item>
+        <item>quart/acre</item>
+    </string-array>
+    
+    <string-array name="appTankCapaUnitArray">
+        <item>US gal</item>
+        <item>Imp gal</item>
+        <item>L</item>
+    </string-array>
+    
+    <string-array name="appTankRemainderUnitArray">
+        <item>US gal</item>
+        <item>Imp gal</item>
+        <item>L</item>
+    </string-array>
+    
+    
+</resources>

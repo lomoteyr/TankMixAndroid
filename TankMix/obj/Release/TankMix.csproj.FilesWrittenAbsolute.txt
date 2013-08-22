@@ -1,0 +1,17 @@
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/MonoAndroid,Version=v2.2.AssemblyAttribute.cs
+/Users/richard/Projects/TankMixAndroid/TankMix/bin/Release/TankMix.dll.mdb
+/Users/richard/Projects/TankMixAndroid/TankMix/bin/Release/TankMix.dll
+/Users/richard/Projects/TankMixAndroid/TankMix/bin/Release/TankMix.TankMix.apk
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/android/bin/TankMix.TankMix.apk
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/res/layout/main.xml
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/res/values/strings.xml
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/res/drawable/icon.png
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/res/layout/second.xml
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/R.cs.flag
+/Users/richard/Projects/TankMixAndroid/TankMix/bin/Release/TankMix.TankMix-Signed.apk
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/uploadflags.txt
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/TankMix.dll
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/TankMix.dll.mdb
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/MonoAndroid,Version=v4.2.AssemblyAttribute.cs
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/res/layout/third.xml
+/Users/richard/Projects/TankMixAndroid/TankMix/obj/Release/res/layout/result.xml
